@@ -12,5 +12,7 @@ public class FirstSeleniumScript {
 
         driver.get("http://thetestingacademy.com/");
 
+
+
     }
 }
